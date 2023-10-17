@@ -6,15 +6,17 @@ body{
     max-width: 960px;
     margin:0 auto;
     padding:0;
-    overflow: scroll;
+    color:rgb(44, 45, 46);
+}
 
+a:link{
+    color: rgb(44, 45, 46);
+    
+}
 
-    
-    
-    color:rgb(153, 158, 163);
-    
-    
-    
+a:visited{
+    color: rgb(44, 45, 46);
+    text-decoration: none;
 }
 
 .container-fluid {
