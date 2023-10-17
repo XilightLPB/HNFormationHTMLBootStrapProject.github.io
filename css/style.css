@@ -1,0 +1,37 @@
+html, body{
+    height:100%;
+}
+
+body{
+    max-width: 960px;
+    margin:0 auto;
+    padding:0;
+    overflow: scroll;
+
+
+    
+    
+    color:rgb(153, 158, 163);
+    
+    
+    
+}
+
+.container-fluid {
+    min-height: 100%;
+    
+}
+
+
+nav{
+    background-color: rgb(73, 67, 67);
+}
+
+li{
+    list-style: none;
+}
+
+
+.container-fluid{
+    overflow:hidden;
+}
